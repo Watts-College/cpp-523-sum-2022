@@ -6,15 +6,15 @@
 # GitHub Course Location 
 
 github_info:
-    username:          DS4PS 
+    username:          Watts-College 
     branch:            master
-    website-repo:      cpp-523-sum-2021
-    course-repo:       cpp-523-sum-2021
+    website-repo:      cpp-523-spring-2022
+    course-repo:       cpp-523-spring-2022
 
 # Site subpath, e.g. /blog
-url :               "https://ds4ps.github.io"
-baseurl:            "/cpp-523-sum-2021"
-course_url:         "http://ds4ps.org/cpp-523-sum-2021/"
+url :               "https://watts-college.github.io"
+baseurl:            "/cpp-523-spring-2022"
+course_url:         "http://watts-college.github.io/cpp-523-spring-2022/"
 
 
 # NAVIGATION BAR
