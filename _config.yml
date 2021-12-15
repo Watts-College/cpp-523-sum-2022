@@ -8,13 +8,13 @@
 github_info:
     username:          Watts-College 
     branch:            master
-    website-repo:      cpp-523-spring-2022
-    course-repo:       cpp-523-spring-2022
+    website-repo:      cpp-523-spr-2022
+    course-repo:       cpp-523-spr-2022
 
 # Site subpath, e.g. /blog
 url :               "https://watts-college.github.io"
-baseurl:            "/cpp-523-spring-2022"
-course_url:         "http://watts-college.github.io/cpp-523-spring-2022/"
+baseurl:            "/cpp-523-spr-2022"
+course_url:         "http://watts-college.github.io/cpp-523-spr-2022/"
 
 
 # NAVIGATION BAR
