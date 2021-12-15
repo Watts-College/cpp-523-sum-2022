@@ -13,14 +13,14 @@ info:
  course_title: Foundations of Program Evaluation Part I
  course_number: CPP 523 
  course_level: Graduate 
- course_website: 'https://canvas.asu.edu/courses/86711'
- course_start_end_dates: May 17 - June 24, 2021 
+ course_website: 'https://canvas.asu.edu/courses/106949'
+ course_start_end_dates: Jan 10th - Mar 1st, 2021 
  course_prerequisites: College Level Intro. to Stats 
  class_meets_when:  Asynchronous  
  class_meets_where:  'https://asu.zoom.us/j/84019158609'
  review_sessions_when: Friday, 12:30pm AZ 
  review_sessions_where: 'https://asu.zoom.us/j/84019158609'
- discussion_board_url: 'https://ds4ps.org/cpp-523-sum-2021/help/'
+ discussion_board_url: 'https://watts-college.github.io/cpp-523-spr-2022/help/'
 
 instructor:
 -  name: David Schlinkert
@@ -28,7 +28,7 @@ instructor:
    email: david.schlinkert@asu.edu
    office_location: virtual
    website_url: 
-   github_url: 'https://github.com/Schlinkert' 
+   github_url: 'https://github.com/JasonSills' 
    twitter_url: 
    scholar_url: 
    linked_in_url: 'https://www.linkedin.com/in/david-schlinkert-0207646b/'
@@ -41,7 +41,7 @@ textbooks:
 - title: 'Applied Regression: An Introduction'
   authors: 'Lewis-Beck, C., & Lewis-Beck, M.'
   edition: 2015
-  link: '/cpp-523-spr-2021/pubs/Applied%20Regression%20Lewis-Beck.pdf'
+  link: '/cpp-523-spr-2022/pubs/Applied%20Regression%20Lewis-Beck.pdf'
   required: Required (follow link)
 - title: 'Impact Evaluation in Practice'
   authors: 'Gertler, P. J., Martinez, S., Premand, P., Rawlings, L. B., & Vermeersch, C. M. J.'
@@ -238,7 +238,7 @@ Grades for the course are largely based on weekly labs. Assigned work is accompa
 
 **Course content** is hosted on this website. Lecture files, assignments and other course communications will be transmitted via this site and/or through the class email list. **All assignment submissions** will be made through the [Canvas shell](https://canvas.asu.edu). 
 
-Please post lab questions on the [Get Help](/cpp-523-fall-2020/help/) page on this site, schedule individual office hours using the Calendly link provided above, and email the instructor directly instead of using the Canvas system. 
+Please post lab questions on the [Get Help](/cpp-523-spr-2022/help/) page on this site, schedule individual office hours using the Calendly link provided above, and email the instructor directly instead of using the Canvas system. 
 
 Students should be aware that the course instructor will attempt to respond to any course-related email as quickly as possible. Students are asked to allow between 24 and 48 hours for replies to direct instructor emails, generally, as a reasonable time to reply to questions or other issues posed in an email. Additionally, the general timeline for instructor grading or other feedback on assignments, either writer work or online discussion work, is between 5 and 10 work days.
 
