@@ -17,24 +17,24 @@ info:
  course_start_end_dates: Jan 10th - Mar 1st, 2021 
  course_prerequisites: College Level Intro. to Stats 
  class_meets_when:  Asynchronous  
- class_meets_where:  'https://asu.zoom.us/j/84019158609'
- review_sessions_when: Friday, 12:30pm AZ 
- review_sessions_where: 'https://asu.zoom.us/j/84019158609'
+ class_meets_where:  'https://asu.zoom.us/j/5870336502'
+ review_sessions_when: Thursday, 6:00pm AZ 
+ review_sessions_where: 'https://asu.zoom.us/j/5870336502'
  discussion_board_url: 'https://watts-college.github.io/cpp-523-spr-2022/help/'
 
 instructor:
--  name: David Schlinkert
-   title: Professor
-   email: david.schlinkert@asu.edu
+-  name: Jason Sills
+   title: Faculty Associate
+   email: jsills1@asu.edu
    office_location: virtual
    website_url: 
    github_url: 'https://github.com/JasonSills' 
    twitter_url: 
    scholar_url: 
-   linked_in_url: 'https://www.linkedin.com/in/david-schlinkert-0207646b/'
+   linked_in_url: 
    office_hours_time: By appointment
    office_hours_location:  Zoom
-   office_hours_app_url:  'mailto:david.schlinkert@asu.edu'
+   office_hours_app_url:  'mailto:jsills1@asu.edu'
    
 
 textbooks:
