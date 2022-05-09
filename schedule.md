@@ -3,7 +3,7 @@ layout: default
 title: Schedule
 
 canvas: 
-  assignment_url: 'https://canvas.asu.edu/courses/106949/assignments'
+  assignment_url: 'https://canvas.asu.edu/courses/119349/assignments'
 
 labs:
   lab-01:  'Saturday, January 15th' 
@@ -25,7 +25,7 @@ final:
   exam-date:  'Mon Feb 21 - Sun Feb 27' 
 
 pdf-root-url:
-  "https://github.com/Watts-College/cpp-523-spr-2022"
+  "https://github.com/Watts-College/cpp-523-sum-2022"
 ---
 
 <!--- 
