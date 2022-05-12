@@ -6,23 +6,23 @@ canvas:
   assignment_url: 'https://canvas.asu.edu/courses/119349/assignments'
 
 labs:
-  lab-01:  'Saturday, January 15th' 
-  lab-02:  'Saturday, January 22nd'
-  lab-03:  'Saturday, January 29th'
-  lab-04:  'Saturday, February 5th'
-  lab-05:  'Saturday, February 12th'
-  lab-06:  'Saturday, February 19th'
+  lab-01:  'Saturday, May 21st' 
+  lab-02:  'Saturday, May 28th'
+  lab-03:  'Saturday, June 4th'
+  lab-04:  'Saturday, June 11th'
+  lab-05:  'Saturday, June 18th'
+  lab-06:  'Saturday, June 22nd'
   
 assessments:
-  mini-assessment-01:  'Sat Jan 15 - Wed Jan 19'
-  mini-assessment-02:  'Sat Jan 22 - Tues Jan 25'
-  mini-assessment-03:  'Sat Jan 29- Tues Feb 1'
-  mini-assessment-04:  'Sat Feb 5 - Tues Feb 8'
-  mini-assessment-05:  'Sat Feb 12 - Tues Feb 15'
-  mini-assessment-06:  'Sat Feb 19 - Tues Feb 22'
+  mini-assessment-01:  'Sat May 21 - Tue May 24'
+  mini-assessment-02:  'Sat May 28 - Tues May 31'
+  mini-assessment-03:  'Sat June 4-  Tues June 7'
+  mini-assessment-04:  'Sat June 11 - Tues June 14'
+  mini-assessment-05:  'Sat June 18 - Tues Feb 21'
+  mini-assessment-06:  'Sat June 20 - Tues June 23'
   
 final: 
-  exam-date:  'Mon Feb 21 - Sun Feb 27' 
+  exam-date:  'Mon June 20 - Sat Jun 25' 
 
 pdf-root-url:
   "https://github.com/Watts-College/cpp-523-sum-2022"
