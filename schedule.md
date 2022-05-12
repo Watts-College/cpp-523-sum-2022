@@ -11,7 +11,7 @@ labs:
   lab-03:  'Saturday, June 4th'
   lab-04:  'Saturday, June 11th'
   lab-05:  'Saturday, June 18th'
-  lab-06:  'Saturday, June 22nd'
+  lab-06:  'Wednesday, June 22nd'
   
 assessments:
   mini-assessment-01:  'Sat May 21 - Tue May 24'
@@ -19,7 +19,7 @@ assessments:
   mini-assessment-03:  'Sat June 4-  Tues June 7'
   mini-assessment-04:  'Sat June 11 - Tues June 14'
   mini-assessment-05:  'Sat June 18 - Tues Feb 21'
-  mini-assessment-06:  'Sat June 20 - Tues June 23'
+  mini-assessment-06:  'Mon June 20 - Thurs June 23'
   
 final: 
   exam-date:  'Mon June 20 - Sat Jun 25' 
@@ -73,7 +73,7 @@ Please note the organizatin of assignments for class.
 
 <br>
 
-**Labs are due Saturday**, mini assessments covering the previous lab are on Tuesday. 
+**Labs are due Saturday**, mini assessments 1-5 covering the previous lab are on Tuesday, mini assessment 6 is due on a Thursday. 
 
 Get started early on labs so you have time to ask questions on the discussion board if you get stuck. 
 
@@ -81,7 +81,7 @@ Labs are graded pass-fail. The criteria is that you demonstrate an understanding
 
 The mini assessments typically consist of three multiple-choice or matching questions to guage your understanding of the previous week's lectures and lab. If you understood everything on the labs you should do fine on the mini assessments. 
 
-**Mini-assessments open on Saturday and close Tuesday at 11:59pm (AZ time).** You have 30 minutes to complete an assessment once they start. You can take it at any time Sat-Tues.
+**Mini-assessments 1-5 open on Saturday and close Tuesday at 11:59pm (AZ time), mini-assessment 6 opens on a Monday and closes on a Thursday at 11:59pm (AZ time).** You have 30 minutes to complete an assessment once they start. You can take it at any time while it is open.
 
 
 
