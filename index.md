@@ -14,7 +14,7 @@ info:
  course_number: CPP 523 
  course_level: Graduate 
  course_website: 'https://canvas.asu.edu/courses/106949'
- course_start_end_dates: Jan 10th - Mar 1st, 2021 
+ course_start_end_dates: May 16th - Jul 24th, 2021 
  course_prerequisites: College Level Intro. to Stats 
  class_meets_when:  Asynchronous  
  class_meets_where:  'https://asu.zoom.us/j/5870336502'
